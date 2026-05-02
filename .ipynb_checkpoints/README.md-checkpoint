@@ -68,4 +68,4 @@ Netflix-Movies-and-TV-Shows/
 
 # 🙋‍♀️ Author -  Banshita Rout
 
-#⭐ If you like this project, consider giving it a star!
+## ⭐ If you like this project, consider giving it a star!
