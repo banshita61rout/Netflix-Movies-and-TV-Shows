@@ -68,12 +68,9 @@ Netflix-Movies-and-TV-Shows/
 - You can find it here: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## 📊 Kaggle Notebook
+- Check out my full analysis on Kaggle: https://www.kaggle.com/code/banshita16/netflix-eda-movies-and-tv-shows
 
-```python
-Check out my full analysis on Kaggle:
-👉 https://www.kaggle.com/code/banshita16/netflix-eda-movies-and-tv-shows
 
-```
 
 ## 📌 Note
 - For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
