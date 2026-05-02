@@ -53,9 +53,6 @@ import seaborn as sns
 - Some genres remain niche
 - Conclusions - Netflix focuses on movies and mature content, with strong global expansion and a shift from rapid growth to quality-focused content strategy.
 
-## 📌 Note
-- For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
-
 ## 📁 Project Structure
 ```python
 
@@ -66,6 +63,8 @@ Netflix-Movies-and-TV-Shows/
 └── README.md 
 
 ```
+## 📌 Note
+- For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
 
 # 🙋‍♀️ Author -  Banshita Rout
 
