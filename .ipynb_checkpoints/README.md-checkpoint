@@ -30,20 +30,21 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-🔄 Workflow
-Data Cleaning (missing values, duplicates)
-Feature Engineering (Year, Month, Duration)
-Data Transformation (split & explode columns)
-Data Visualization (Matplotlib & Seaborn)
-📊 Key Visualizations
-📈 Content Growth Over Years
-🎬 Movies vs TV Shows Distribution
-🎭 Genre Analysis (Top & Bottom)
-🌍 Country-wise Analysis
-⭐ Ratings Analysis
+## 🔄 Workflow
+- Data Cleaning (missing values, duplicates)
+- Feature Engineering (Year, Month, Duration)
+- Data Transformation (split & explode columns)
+- Data Visualization (Matplotlib & Seaborn)
+
+## 📊 Key Visualizations
+- 📈 Content Growth Over Years
+- 🎬 Movies vs TV Shows Distribution
+- 🎭 Genre Analysis (Top & Bottom)
+- 🌍 Country-wise Analysis
+- ⭐ Ratings Analysis
 
 
-🔍 Key Insights
+## 🔍 Key Insights
 - Movies dominate (~70% of content)
 - Rapid growth after 2016, peak around 2019
 - USA leads, followed by India & UK
@@ -52,10 +53,10 @@ Data Visualization (Matplotlib & Seaborn)
 - Some genres remain niche
 - Conclusions - Netflix focuses on movies and mature content, with strong global expansion and a shift from rapid growth to quality-focused content strategy.
 
-📌 Note
-For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
+## 📌 Note
+- For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
 
-📁 Project Structure
+## 📁 Project Structure
 Netflix-Movies-and-TV-Shows/
 │
 ├── Netflix.ipynb
@@ -63,6 +64,6 @@ Netflix-Movies-and-TV-Shows/
 └── README.md
 
 
-🙋‍♀️ Author -  Banshita Rout
+# 🙋‍♀️ Author -  Banshita Rout
 
-⭐ If you like this project, consider giving it a star!
+#⭐ If you like this project, consider giving it a star!
