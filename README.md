@@ -57,12 +57,15 @@ import seaborn as sns
 - For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
 
 ## 📁 Project Structure
+```python
+
 Netflix-Movies-and-TV-Shows/
 │
 ├── Netflix.ipynb
 ├── netflix_titles.csv
-└── README.md
+└── README.md 
 
+```
 
 # 🙋‍♀️ Author -  Banshita Rout
 
