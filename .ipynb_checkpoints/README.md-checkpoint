@@ -64,7 +64,7 @@ Netflix-Movies-and-TV-Shows/
 └── README.md 
 
 ```
-## 📂 Dataset - The dataset used in this project is sourced from Kaggle.  
+### 📂 Dataset - The dataset used in this project is sourced from Kaggle.  
 - You can find it here: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 
@@ -72,6 +72,6 @@ Netflix-Movies-and-TV-Shows/
 ## 📌 Note
 - For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
 
-# 🙋‍♀️ Author -  Banshita Rout
 
+# 🙋‍♀️ Author -  Banshita Rout
 ## ⭐ If you like this project, consider giving it a star!
