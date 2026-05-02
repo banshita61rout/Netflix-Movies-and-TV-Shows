@@ -6,6 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)
 ![EDA](https://img.shields.io/badge/EDA-Project-red)
+![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)
 
 
 
@@ -63,6 +64,11 @@ Netflix-Movies-and-TV-Shows/
 └── README.md 
 
 ```
+## 📂 Dataset - The dataset used in this project is sourced from Kaggle.  
+- You can find it here: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+
+
 ## 📌 Note
 - For a deeper understanding and detailed analysis, please refer to the Jupyter Notebook in this repository.
 
